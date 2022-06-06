@@ -1,0 +1,6 @@
+w = input("Whose birthday is it? ")
+z = str("Happy birthday to you")
+print(str(z))
+print(str(z))
+print("Happy birthday to " + w)
+print(str(z))
